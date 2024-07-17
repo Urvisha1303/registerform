@@ -1,0 +1,45 @@
+.box{
+    width: 20%;
+    margin: auto;
+    height: 400px;
+    /* border: 1px solid black; */
+    
+}
+
+.Register{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.form{
+    margin: 10px;
+}
+
+.addbtn{
+    text-align: center;
+    width: 32%;
+    margin: 0px 91px;
+    height: 31px;
+}
+
+#searchbar{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+
+
+table, td, th{
+    border: 1px solid black;
+    column-gap: 1px;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.deletebtn{
+    margin-top: 5px;
+    margin-left: 5px;
+}
